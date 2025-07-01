@@ -32,7 +32,7 @@ To start the game, run the following command in your terminal:
 ./ttt
 ```
 
-## コードの詳細 (Code Details)
+## Code Details
 
 The entire game is contained within `ttt.c`. Here is a breakdown of how the code works.
 
